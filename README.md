@@ -1,4 +1,4 @@
--  Hi, I’m @Lynnoz
+-  Hi, I’m @Lynnoz im a junior software engineer studying web development and problem solving.
 -  I’m interested in Games/Youtube/Twitch
 -  I’m currently learning Python/Javascript/HTML
 
